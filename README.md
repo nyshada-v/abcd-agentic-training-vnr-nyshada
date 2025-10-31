@@ -12,6 +12,7 @@
 9. [Demo Video](#demo-video)
 10. [Future Enhancements](#future-enhancements)
 
+<<<<<<< HEAD
 ---
 
 ## 🎯 Project Overview
@@ -335,3 +336,8 @@ download demo:
 ---
 
 **Have specific feature requests?** Open an issue to help us prioritize development!
+=======
+### Day-2:
+Assignment 1: AI-Powered Email Workflow (This workflow demonstrates **integration of AI with automated email processing**, showcasing skills in cloud services, workflow automation, and AI API usage.)
+Assignment 2: Job Application Tracker (listen to email, send alert)
+>>>>>>> 52e48c92d7a413cbcb081e346aab799b2f9832c3
